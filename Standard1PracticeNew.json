@@ -10,26 +10,8 @@
                                                 [[-111.52,45.5],[-111.52,46.2],[-110.52,46.2],[-110.52,45.2],[-111.52,45.5]]
                     ]
             }
-        },
-        {
-            "type": "Feature",
-            "id": 2,
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                       
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id" : 3, 
-            "geometry": {
-                    "type": "Polygon",
-                    "coordinates": [
-                        
-                    ]
-            }
         }
+        
+        
     ]
 }
