@@ -3,15 +3,13 @@
     "features": [
         {
             "type": "Feature",
-            "id" : 1, 
+            "id": 2,
             "geometry": {
-                    "type": "Polygon",
-                    "coordinates": [
-                       [[1,0],[1,1],[0,1],[0,0],[1,0]]
-                    ]
+                "type": "Polygon",
+                "coordinates": [
+                    [[12, 2], [14, 3], [14, 5], [13, 6], [11, 5], [12, 2]]
+                ]
             }
         }
-        
-        
     ]
 }
