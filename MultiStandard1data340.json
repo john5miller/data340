@@ -60,6 +60,26 @@
                     [[4, 9], [5, 7], [6, 9], [4, 9]]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [[10, 6], [11, 8], [9, 8], [10, 6]]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [[9.5, 8], [10.5, 8], [10, 9], [9.5, 8]]
+                ]
+            }
         }
     ]
 }
