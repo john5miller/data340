@@ -3,15 +3,15 @@
     "geometry": {
         "type": "Polygon",
         "coordinates": [
-            [-77.4150 + r * Math.cos(0), 39.4230 + 1 * Math.sin(0)],                          
-            [-77.4150 + r * Math.cos(Math.PI / 4), 39.4230 + 1 * Math.sin(Math.PI / 4)],      
-            [-77.4150 + r * Math.cos(Math.PI / 2), 39.4230 + 1 * Math.sin(Math.PI / 2)],       
-            [-77.4150 + r * Math.cos(3 * Math.PI / 4), 39.4230 + 1 * Math.sin(3 * Math.PI / 4)],   
-            [-77.4150 + r * Math.cos(Math.PI), 39.4230 + 1 * Math.sin(Math.PI)],              
-            [-77.4150 + r * Math.cos(5 * Math.PI / 4), 39.4230 + 1 * Math.sin(5 * Math.PI / 4)],  
-            [-77.4150 + r * Math.cos(3 * Math.PI / 2), 39.4230 + 1 * Math.sin(3 * Math.PI / 2)],  
-            [-77.4150 + r * Math.cos(7 * Math.PI / 4), 39.4230 + 1 * Math.sin(7 * Math.PI / 4)],  
-            [-77.4150 + r * Math.cos(0), 39.4230 + r * Math.sin(0)]                            
+            [-77.4150 + 1 * Math.cos(0), 39.4230 + 1 * Math.sin(0)],                          
+            [-77.4150 + 1 * Math.cos(Math.PI / 4), 39.4230 + 1 * Math.sin(Math.PI / 4)],      
+            [-77.4150 + 1 * Math.cos(Math.PI / 2), 39.4230 + 1 * Math.sin(Math.PI / 2)],       
+            [-77.4150 + 1 * Math.cos(3 * Math.PI / 4), 39.4230 + 1 * Math.sin(3 * Math.PI / 4)],   
+            [-77.4150 + 1 * Math.cos(Math.PI), 39.4230 + 1 * Math.sin(Math.PI)],              
+            [-77.4150 + 1 * Math.cos(5 * Math.PI / 4), 39.4230 + 1 * Math.sin(5 * Math.PI / 4)],  
+            [-77.4150 + 1 * Math.cos(3 * Math.PI / 2), 39.4230 + 1 * Math.sin(3 * Math.PI / 2)],  
+            [-77.4150 + 1 * Math.cos(7 * Math.PI / 4), 39.4230 + 1 * Math.sin(7 * Math.PI / 4)],  
+            [-77.4150 + 1 * Math.cos(0), 39.4230 + 1 * Math.sin(0)]                            
       ]
     }
 }
